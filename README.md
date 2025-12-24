@@ -5,8 +5,7 @@
 
 
 > ⚠️ Note:  
-> This project strictly follows the requirement of using **exactly three (3) files**.  
-> No inline CSS or inline JavaScript is used.
+
 
 ---
 
