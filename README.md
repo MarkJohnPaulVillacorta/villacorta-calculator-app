@@ -48,3 +48,69 @@ This project was created for academic purposes as part of the **Elective 3** sub
 ---
 
 ## 📁 File Structure
+
+calculator/
+│
+├── index.html
+├── style.css
+└── script.js
+
+---
+
+> ⚠️ Note:  
+> This project strictly follows the requirement of using **exactly three (3) files**.  
+> No inline CSS or inline JavaScript is used.
+
+---
+
+## 🚀 Installation & Setup
+
+### 1️⃣ Clone the Repository
+Open your terminal or Git Bash and run:
+
+```bash
+git clone https://github.com/MarkJohnPaulVillacorta/villacorta-calculator-app.git
+
+```
+Navigate to the Project Folder
+```bash
+cd villacorta-calculator-app
+
+```
+3️⃣ Run the Project
+
+Simply open the index.html file in your preferred web browser.
+
+✔ No additional setup required
+✔ No external libraries needed
+
+🎹 Keyboard Controls
+
+0–9 → Numbers
+
++ − * / → Operators
+
+Enter → Equals (=)
+
+Backspace → Delete last input
+
+Esc → Clear screen
+----
+
+🎯 Project Purpose
+
+The purpose of this project is to demonstrate:
+
+Proper separation of concerns (HTML, CSS, JavaScript)
+
+DOM manipulation
+
+Event handling
+
+Input validation
+
+Clean and organized code structure
+---
+📜 License
+
+This project is for educational purposes only.
